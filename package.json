@@ -1,0 +1,13 @@
+{
+  "name": "spacemuffin-mailserver",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1"
+  },
+  "devDependencies": {
+    "@google-cloud/functions-emulator": "^1.0.0-beta.5"
+  }
+}
